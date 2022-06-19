@@ -1,5 +1,8 @@
+![image](https://data.whicdn.com/images/131201358/original.gif)
+
+
 - 👋 Hi, I’m @lilhuy0405 (Lưu Huy)
-- 👀 I’m JavaScript hater but working with it everday
+- 👀 I’m JavaScript hater but working with it everday :(
 
 <!---
 lilhuy0405/lilhuy0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
