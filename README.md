@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UCa5Csu-P899n7729HnTEoTQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a>
+  <a href="https://www.facebook.com/luuhuy04052001" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
   
