@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 👋 LIL HUY - THE CODDING CAT<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 LIL HUY - THE CODING CAT<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
    <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
 </p>
