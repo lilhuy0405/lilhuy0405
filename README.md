@@ -33,9 +33,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhuy0405&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
-<p align="center">
-  <img src="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake.svg" />
+</picture>
 
 
 <br>
@@ -49,8 +51,6 @@
 <a href= https://github.com/lilhuy0405?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/lilhuy0405?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/lilhuy0405?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-
-
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/lilhuy0405'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
