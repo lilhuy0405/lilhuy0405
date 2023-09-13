@@ -34,9 +34,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhuy0405&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lilhuy0405/lilhuy0405/32c71e4494163a625cd8b7a8baddac3d353b6ee8/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
