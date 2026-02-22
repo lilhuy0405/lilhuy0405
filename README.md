@@ -20,19 +20,16 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhuy0405&label=Profile%20views&color=0e75b6&style=flat" alt="lilhuy0405" /> </p>
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lilhuy0405&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuy0405&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
 
 <h2 align="left" font-weight="bold">About me</h2>  
 
 - 👋 Hi, I’m @lilhuy0405 (Lưu Huy) the coding cat :3
 - 👀 I'm a JavaScript hater but as you have seen the stats above. I'm using JavaScript in most of my projects :vv
-- I'm currently learning Blockchain, DevOps, Zig Lang :D. I'm working as a full stack developper and now also a game developer with Phaser3 framework
+- I'm currently working as Full stack developer, Blockchain Developer and DevOps :D.
+- I'm interested in learning new technologies and making application that solve my daily problems
 - Visit my organazations to see my works gallary: https://github.com/codingcat0405
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhuy0405&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lilhuy0405/lilhuy0405/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -65,7 +62,7 @@
 
 Credit: [lilhuy](https://github.com/lilhuy0405)
 
-Last Edited on: 07/03/2023
+Last Edited on: 22/02/2026
 <!---
 lilhuy0405/lilhuy0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
